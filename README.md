@@ -89,34 +89,23 @@ def drawfigures():
   
 ## Screenshots
 
-
+https://github.com/sagnik4516/TIC_TAC_TOE-/blob/main/Screenshot%20(60).png
 
   
 ## Tech Stack
 
-**Client:** VsCode, Python3, HTMLCSS
+**Client:** VsCode, Python3, 
 
-**Server:** Flask
+**Server:** Pygame
 
   
 ## Features
 
-- User Friendly UI
+- User Friendly GUI
 - Live previews
 - Fullscreen mode
 - Cross platform
 - Smooth running API
 
   
-## FAQ
 
-#### Can it do basic things like voice assistant like who are you or tell me a joke?
-
-
-Answer Yes, Various multitasking operations are inbuit in its UI
-
-#### Can I send my email by just saying, without typing?
-
-Answer Yes ofcourse, this app uses the smtplib library for such operations.
-
-  
