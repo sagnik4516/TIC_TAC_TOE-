@@ -1,0 +1,13 @@
+To implement this game, we will use the basic concepts of Python and Pygame which is a Python library for building cross-platform games. It contains the modules needed for computer graphics and sound libraries. To install the library, you can use pip installer from the command line:
+# pip install pygame #
+We are going to use the pygame module, numpy library, and the sys module of Python. 
+# import pygame #
+Python is the most popular programming language or nothing wrong to say that it is the next-generation programming language. In every emerging field in computer science, Python makes its presence actively.
+# import sys #
+The sys module in Python provides various functions and variables that are used to manipulate different parts of the Python runtime environment. It allows operating on the interpreter as it provides access to the variables and functions that interact strongly with the interpreter
+
+# import numpy as np #
+
+NumPy is a Python library used for working with arrays.
+
+It also has functions for working in domain of linear algebra, fourier transform, and matrices.
